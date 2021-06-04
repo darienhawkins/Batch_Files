@@ -5,12 +5,12 @@ REM       DATE MODIFIED: 5 OCTOBER 2004
 REM       BY TSGT DARIEN H HAWKINS
 REM ***************************************************
 
-SET MASTERDATA-SOURCE=\\lfi-fs1MXAM0003\wincfrs\server\Masterdata
-SET LOCAL-SOURCE=\\lfi-fs1MXAM0003\wincfrs\server\LOCAL
-SET CAMS-SOURCE=\\lfi-fs1MXAM0003\wincfrs\server\CAMS
+SET MASTERDATA-SOURCE=\\ntfileserver03\wincfrs\server\Masterdata
+SET LOCAL-SOURCE=\\ntfileserver03\wincfrs\server\LOCAL
+SET CAMS-SOURCE=\\ntfileserver03\wincfrs\server\CAMS
 
 
-SET DESTINATION=\\Lfi-fs1mxam0000\Backups\CFRS-Databases\"%DATE%"
+SET DESTINATION=\\ntfileserver00\Backups\CFRS-Databases\"%DATE%"
  
 REM IF EXIST %BACKUP-LOCATION% GOTO END
  
