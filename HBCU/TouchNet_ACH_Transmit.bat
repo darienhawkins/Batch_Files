@@ -59,7 +59,7 @@ REM ===========================================================================
 
 :sendmailMessage
 REM Step 8: Send email
-set msgEmailServer=aaa.bbb.11.46
+set msgEmailServer=aaa.bbb.ccc.ddd
 set msgMessage="Touchnet ACH file sent to BOFA.  Please call and confirm with BOFA approximately 15 minutes following recipient of this message."
 set msgSubject="Touchnet ACH File Sent Acknowledgement Message"
 set msgRecipients=darien.hawkins@higheredinstitutiondomain.edu,princess.lipscomb@higheredinstitutiondomain.edu,bannerjobs@higheredinstitutiondomain.edu

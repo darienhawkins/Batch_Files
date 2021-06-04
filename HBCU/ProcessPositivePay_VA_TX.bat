@@ -98,7 +98,7 @@ REM ===========================================================================
 
 :sendmailMessage
 REM Step 8: Send email
-set msgEmailServer=aaa.bbb.11.46
+set msgEmailServer=aaa.bbb.ccc.ddd
 set msgMessage="Postive pay file sent to BOFA in %state%.  Please call and confirm with BOFA approximately 15 minutes following recipient of this message."
 set msgSubject="Positive Pay Sent to %state% Acknowledgement Message"
 set msgRecipients=bannerjobs@higheredinstitutiondomain.edu,cecelia.hill@higheredinstitutiondomain.edu, mershelle.butler@higheredinstitutiondomain.edu
@@ -119,7 +119,7 @@ DEL %uncPath%\%processFolder%\pospay*
 
 GOTO End
 
-rem transmissions support 1 855 515 6600 opt 2
+rem transmissions support xxxxxxxxxxxxxx
 rem user id for Virginia xxxxxxx
 rem user id for Texas xxxxxxx
 
