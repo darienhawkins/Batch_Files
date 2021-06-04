@@ -1,3 +1,5 @@
+REM Important information obfuscated (hostname, IP address, username, password, etc)
+
 REM @echo off
 IF "%OS%"=="Windows_NT" goto NT
 

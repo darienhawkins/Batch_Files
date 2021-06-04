@@ -1,3 +1,5 @@
+REM Important information obfuscated (hostname, IP address, username, password, etc)
+
 REM **** TEST TO SEE IF OS IS WINNT ****
 REM IF %OS%==Windows_NT GOTO CHECK
 

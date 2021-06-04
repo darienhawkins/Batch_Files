@@ -1,3 +1,5 @@
+REM Important information obfuscated (hostname, IP address, username, password, etc)
+
 REM **** CHECKS EVIRONMENT VARIABLES ****
 
 IF %OFFICENAME% == scna GOTO LAN_ADMIN

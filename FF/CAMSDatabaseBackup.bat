@@ -1,3 +1,5 @@
+REM Important information obfuscated (hostname, IP address, username, password, etc)
+
 REM ***************************************************
 REM       THIS BATCH FILE BACKS UP THE CFRS DATABASES
 REM       TO AN ALTERNATE LOCATION
